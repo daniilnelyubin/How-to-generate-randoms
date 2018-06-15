@@ -1,6 +1,7 @@
 # Randoms
 ---
-In this project, I implemented various ways of generating random values:
+In this project, I implemented various ways of generating random values
+---
 Even distribution:
 1. The method of the Middle squares
 2. Method of the Middle Works
